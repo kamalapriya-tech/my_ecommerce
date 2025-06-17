@@ -18,7 +18,7 @@ let products = [
     description: "Pure local organic honey.",
     price: 10.99,
     category: "Food",
-    image: "HONEY.png"
+    image: "images/HONEY.png"
 
   },
   {
@@ -27,7 +27,7 @@ let products = [
     description: "Natural ingredients soap.",
     price: 5.99,
     category: "Personal Care",
-    image:"SOAP.png"
+    image:"images/SOAP.png"
 
   },
   {
@@ -36,7 +36,7 @@ let products = [
     description: "Refreshing and healthy.",
     price: 7.49,
     category: "Food",
-    image:"TEA.png"
+    image:"images/TEA.png"
   },
   {
     id: 4,
@@ -44,7 +44,7 @@ let products = [
     description: "Relaxing aroma.",
     price: 12.00,
     category: "Home Decor",
-    image:"CANDLE.png"
+    image:"images/CANDLE.png"
   }
 ];
 
