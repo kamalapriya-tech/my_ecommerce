@@ -25,6 +25,8 @@ A simple e-commerce web app built as part of the **Future Interns – Full Stack
 2. Run:
 
    bash
+   
    npm install
+   
    node server.js
 
