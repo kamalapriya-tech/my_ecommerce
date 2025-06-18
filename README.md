@@ -29,4 +29,10 @@ A simple e-commerce web app built as part of the **Future Interns – Full Stack
    npm install
    
    node server.js
+3.clone:
+
+git clone https://github.com/your-username/your-repo-name.git
+
+cd your-repo-name
+
 
