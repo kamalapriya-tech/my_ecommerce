@@ -31,7 +31,7 @@ A simple e-commerce web app built as part of the **Future Interns – Full Stack
    node server.js
 3.clone:
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/kamalapriya-tech/my_ecommerce.git
 
 cd your-repo-name
 
